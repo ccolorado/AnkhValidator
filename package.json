@@ -5,6 +5,7 @@
   "author": "ccolorado <carlos.colorado@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "hardhat": "^2.22.6",
     "kernel": "zerodevapp/kernel"
   },
